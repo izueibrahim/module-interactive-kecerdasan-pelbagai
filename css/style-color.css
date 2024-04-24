@@ -1,0 +1,106 @@
+/*******************************/
+/* COLOUR PALETTE */
+/*******************************/
+:root {
+  --black: #000000;
+  --white: #FFFFFF;
+
+  --grey-01: #E4E4E4;
+
+  --light-primary-01: #FEFCEB;
+  --light-primary-02: #FDF4C4;
+  --light-primary-03: #FCF1B0;
+  --light-primary-04: #FBEA88;
+  --light-primary-05: #FADF4F;
+  --light-primary-06: #F8D512;
+
+  --dark-primary-01: #E7EEEA;
+  --dark-primary-02: #9FBCAD;
+  --dark-primary-03: #87AB99;
+  --dark-primary-04: #6F9B85;
+  --dark-primary-05: #5C8471;
+  --dark-primary-06: #486758;
+
+
+  --secondary-01-01: #C4F2BA;
+  --secondary-01-02: #B6EFA9;
+  --secondary-01-03: #A8EC98;
+  --secondary-01-04: #9AE986;
+  --secondary-01-05: #8CE675;
+  --secondary-01-06: #76E15C;
+
+  --secondary-02-01: #FFEBF1;
+  --secondary-02-02: #FFC2D6;
+  --secondary-02-03: #FF85AD;
+  --secondary-02-04: #FF4785;
+  --secondary-02-05: #FF0A5C;
+  --secondary-02-06: #C80043;
+
+  --accent-02: #F5F5F5;
+  --accent-03: #E4E4E4;
+  --accent-04: #D6D6D6;
+  --accent-05: #141414;
+  --accent-06: #020202;
+}
+
+.hero-container-bg-color {
+  background-color: var(--light-primary-04);
+}
+
+.bg-color-light-primary-02 {
+  background-color: var(--light-primary-02);
+}
+
+.bg-color-light-primary-03 {
+  background-color: var(--light-primary-03);
+}
+
+.bg-color-light-primary-04 {
+  background-color: var(--light-primary-04);
+}
+
+.bg-color-dark-primary-01 {
+  background-color: var(--dark-primary-01);
+}
+
+.bg-color-dark-primary-05 {
+  background-color: var(--dark-primary-05);
+}
+
+.bg-color-secondary-01-01 {
+  background-color: var(--secondary-01-01);
+}
+
+.bg-color-secondary-02-01 {
+  background-color: var(--secondary-02-01);
+}
+
+.bg-color-accent-02 {
+  background-color: var(--accent-02);
+}
+
+.bg-color-accent-05 {
+  background-color: var(--accent-05);
+}
+
+.bg-color-white {
+  background-color: var(--white);
+}
+
+.border-color-dark-primary-06 {
+  border-color: var(--dark-primary-06);
+}
+
+.border-color-secondary-02-02 {
+  border-color: var(--secondary-02-02);
+}
+
+.border-color-accent-05 {
+  border-color: var(--accent-05);
+}
+
+.color-black {
+  color: var(--black);
+}
+
+
